@@ -12,7 +12,7 @@ main {
   border:2px solid rgb(156, 27, 27);  
   margin: 100px auto;
   padding: 10px;
-  width: 500px;
+  min-width: 500px;
   display: flex;
   flex-direction: row;
   align-items: center;
