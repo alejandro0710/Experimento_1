@@ -10,6 +10,7 @@ body {
 }
 main {
   border:2px solid rgb(156, 27, 27);  
+  font-family: 'Courier New', Courier, monospace;
   margin: 100px auto;
   padding: 10px;
   width: 300px;
@@ -21,7 +22,10 @@ div {
     background-color: blue;
     color: white;
     padding:0 5px ;
+<<<<<<< HEAD
 
+=======
+>>>>>>> experimentos
 }
 p {
     border: 2px blue solid;
