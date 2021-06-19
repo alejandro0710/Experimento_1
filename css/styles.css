@@ -12,12 +12,16 @@ main {
   border:2px solid rgb(156, 27, 27);  
   margin: 100px auto;
   padding: 10px;
-  min-width: 500px;
+  width: 300px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
 }
-
+div {
+    background-color: blue;
+    color: white;
+    padding:0 5px ;
+}
 p {
     border: 2px blue solid;
     margin: 3px;
